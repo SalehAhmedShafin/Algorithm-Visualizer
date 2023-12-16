@@ -1,4 +1,4 @@
-#Algorithms-Visualizer
+# Algorithms-Visualizer
 
 Welcome to the Algorithm Visualizer! In this interactive tool, we will explore and visualize seven different algorithms to deepen our understanding of their inner workings.
 
